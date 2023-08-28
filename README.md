@@ -48,13 +48,13 @@ mpiexec -n <nombre de processus> <chemin vers l'exécutable>
 
 Avec N = 4 :
 
-12 reines :
+12 reines : <br />
 ![Image1](assets/12x12_mpi.png)
 <br />
 
-16 reines :
+16 reines : <br />
 ![Image2](assets/16x16_mpi.png)
 <br />
 
-20 reines :
+20 reines : <br />
 ![Image3](assets/20x20_mpi.png)
